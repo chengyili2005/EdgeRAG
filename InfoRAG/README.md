@@ -1,0 +1,2 @@
+# InfoRAG
+Replicating findings from [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150) on smaller parameter models.
