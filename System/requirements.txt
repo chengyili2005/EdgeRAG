@@ -1,0 +1,16 @@
+# Database stuff
+sqlalchemy
+pgvector
+asyncpg
+
+# Retrieval related stuff
+requests
+wikipedia
+
+# Generation related stuff
+google-genai
+sentence-transformers
+keybert
+
+# Other
+python-dotenv
