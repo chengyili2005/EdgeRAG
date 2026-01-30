@@ -3,6 +3,7 @@ Implementing a RAG system
 
 
 Setup:
+
 0. Setup a conda environment
 ```bash
 conda create -n EdgeRAG python=3.11
