@@ -1,2 +1,5 @@
 .env
 psgs_w100.tsv
+*unsloth*
+output
+__pycache__
