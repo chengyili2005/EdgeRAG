@@ -80,7 +80,7 @@ class Evaluator:
         
         # Compute average and store
         avg_em_score = sum(em_scores)/len(em_scores)
-        avg_f1_score = sum(f1_score)/len(f1_score)
+        avg_f1_score = sum(f1_scores)/len(f1_scores)
         
         self.results[model_name] = {
             "em_score": avg_em_score,
